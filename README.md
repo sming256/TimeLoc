@@ -1,5 +1,11 @@
 # TimeLoc
-This is the official implementation of the paper [TimeLoc: A Unified End-to-End Framework for Precise Timestamp Localization in Long Videos]().
+
+<p align="left">
+<a href="https://arxiv.org/abs/2503.06526" alt="arXiv">
+    <img src="https://img.shields.io/badge/arXiv-2503.06526-b31b1b.svg?style=flat" /></a>
+</p>
+
+This is the official implementation of the paper [TimeLoc: A Unified End-to-End Framework for Precise Timestamp Localization in Long Videos](https://arxiv.org/abs/2503.06526).
 
 # Abstract
 
